@@ -6,9 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fagndes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fhtml5&psig=AOvVaw26XggU0oMIlL4GacJJYBmF&ust=1667239214082000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCOiprEiPsCFQAAAAAdAAAAABAE">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img align="center" alt="HTML" height="30" width="40" src="./174854.png">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
 </div>
 
  <br>
