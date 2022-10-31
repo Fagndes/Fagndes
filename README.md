@@ -10,7 +10,7 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="HTML" height="30" width="40" src="./174854.png">
+    <img align="center" alt="HTML" height="30" width="40" src="174854.png">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
