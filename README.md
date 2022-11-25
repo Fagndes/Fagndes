@@ -1,12 +1,7 @@
 # Olá, bem vindo ao meu perfil😎
 ## De julio Fagundes de Souza
 
-<style>
-.display-flex{
-display-flex;
-flex-derection:row;
-align-itens:center;
-</style>
+
 <div clss="display-flex">
   <a href="https://github.com/Fagndes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fagndes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
